@@ -17,4 +17,4 @@ Implements left and right rotations to fix imbalances.
 #### Height and Size Management
 Keeps track of the height and size of each node.
 #### Basic Operations
-Supports insertion, deletion, finding minimum and maximum values, and checking for the presence of an element.
+insertion, deletion, finding minimum and maximum values, and checking for the presence of an element.
